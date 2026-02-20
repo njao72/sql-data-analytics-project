@@ -74,7 +74,6 @@ Each script focuses on a specific analytical objective and follows clean, readab
 -------------------------------------------------------------------------------------
 
 ## 📂 Repository Structure
-
 sql-data-analytics/
 │
 ├── 01_database_exploration.sql
@@ -85,7 +84,6 @@ sql-data-analytics/
 ├── 06_reporting_queries.sql
 │
 └── README.md
-
 Each file is modular and can be executed independently.
 
 -----------------------------------------------------------------------------------------------------------------------------------
