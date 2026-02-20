@@ -31,15 +31,11 @@ Each script focuses on a specific analytical objective and follows clean, readab
 ### 🧩 Key Features
 1️⃣.**Database Exploration**
 
-*Schema inspection
-
-*Table structure analysis
-
--Column profiling
-
--Null and distinct value checks
-
-+Basic descriptive statistics
+* Schema inspection
+* Table structure analysis
+- Column profiling
+- Null and distinct value checks
++ Basic descriptive statistics
 
 2️⃣. **Measures & Metrics**
 
