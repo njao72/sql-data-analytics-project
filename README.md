@@ -86,6 +86,7 @@ sql-data-analytics/
 └── README.md
 
 Each file is modular and can be executed independently.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ## 👤 About Me
